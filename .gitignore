@@ -9,6 +9,7 @@ Binaries/
 *.sln
 *.log
 Makefile
+UpgradeLog.htm
 
 # Exclude
 !Vendor/Binaries
